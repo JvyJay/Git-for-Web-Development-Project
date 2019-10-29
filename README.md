@@ -42,5 +42,7 @@ Stretch Questions
     2. What happens when an element is positioned absolutely? absolute position allows you to p[lace and element wherever you want.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? Place it within a elemnt with a container attribute. 
     4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default :h1, p, a. span, img. button.
-    5. In your own words, explain the box model. What is the fix for the box model? CSS treats each element as a block. It determines various dimensions of that box. The best fix to the box model is flexbox, bootstrap and materialize in my opinion. 
+    5. In your own words, explain the box model. What is the fix for the box model? CSS treats each element as a block. It determines various dimensions of that box. The best fix to the box model is flexbox, bootstrap and materialize in my opinion.
+
+    Codepen Challenge : https://codepen.io/jvyjay/pen/VwwMeBj?editors=1100
 
